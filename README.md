@@ -21,3 +21,7 @@ Interface with CPS1 Emulator
 
 ![Bagles Game](/Capture1.JPG)
 
+# Usage
+
+The program is passed to the emulator interface in an assembled form (file extension .pt) The programs required 
+for assembly are currently unavailable. 
