@@ -7,21 +7,7 @@ The source code found in this repository was created for the purpose of emulatin
 
 The respository contains two files written in the native language of the CPS1 emulator. The first game is a primitive shooter that is an original (Tester7.2) and the second is a reimplementation of Bagles.
 
-# Preview
-
-Interface with CPS1 Emulator 
-
-![CPS1 Emulator user Interface](/CPS1.jpg)
-
-## Primitive Shooter
-
-![Primitive Shooter](/Capture.JPG)
-
-## Bagles Implementaton
-
-![Bagles Game](/Capture1.JPG)
-
 # Usage
 
-The program is passed to the emulator interface in an assembled form (file extension .pt) The programs required 
-for assembly are currently unavailable. 
+The program is passed to the emulator interface in an assembled form (file extension .pt) Images for the interface
+are currently unavailable.
